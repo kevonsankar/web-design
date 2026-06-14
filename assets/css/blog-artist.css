@@ -1,0 +1,57 @@
+.text-title{
+	font-size: 60px;
+}
+
+.headline-img{
+height: 350px;
+width: 350px;
+
+}
+
+.subsection-major{
+	color: royalblue;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 15px ;
+	margin-bottom: 0px ;
+}
+
+.subsection-minor{
+	color: indianred;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 15px ;
+	margin-bottom: 0px ;
+}
+
+.list-clean{
+list-style-type: none;	
+}
+
+
+.link-song{
+color: white;
+background-color:darkviolet;
+text-decoration: none;
+
+}
+
+.div-format{
+	background-color: aqua;
+	text-align: center;
+}
+
+.custom-paragraph{
+	
+	font-size: 20px;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	margin: 10px;
+	color:black;
+}
+
+.div-format2{
+	background-color: aqua;
+	border:5px solid darkviolet;
+	}

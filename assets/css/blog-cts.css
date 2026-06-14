@@ -1,0 +1,21 @@
+.cts-title{
+	text-transform: uppercase;
+}
+
+.cts-img{
+	width:100%;
+
+}
+
+.cts-subheading{
+color:orangered;
+text-transform: uppercase;
+border-bottom: 2px solid skyblue;
+padding-bottom: 5px;
+}
+
+.cts-text-highlight{
+background-color: lightgray;
+border-left: 6px solid black;
+padding: 20px;
+}

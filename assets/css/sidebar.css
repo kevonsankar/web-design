@@ -1,10 +1,26 @@
 /* =========== ABOUT ME SECTION =========== */
 /* Use this to style the about me image */
 .sidebar-my-image {
+    height: 200px;
+    width: 180px;
     border-radius: 50%;
     display: block;
     margin: auto;
 
+}
+
+.sidebar-my-name{
+    text-align: center;
+    font-size: 25px;
+    font-weight: BOLD;
+    font-style: italic;
+    text-decoration-line: underline;
+
+}
+
+/*aboutme*/
+.sidebar-about-me{
+    text-align: center;
 }
 
 
@@ -18,10 +34,16 @@
 /* SOCIAL MEDIA ICONS */
 .sidebar-social-icon{
       display: inline-block;
-      color: black;
+      color: white;
       padding: 10px;
       margin: 10px;
+      background-color: royalblue;
+      border:5px solid black  ;
 
+}
+.sidebar-social-icon:hover {
+color:black;
+background-color: hotpink;
 }
 
 
@@ -32,10 +54,25 @@
     width: 100%;
 }
 
+.sidebar-text{
+    text-align: center;
+
+}
+
 /* CTS LINK */
 .sidebar-cts-link{
     display: block;
-
+    background-color: royalblue;
+    border:10px solid black  ;
+    text-align: center;
+    padding: 20px;
+    text-decoration-line: none;
+    color: white;
+    font-weight: bold;
+}
+.sidebar-cts-link:hover {
+color:black;
+background-color: hotpink;
 }
 
 
@@ -45,12 +82,30 @@
     display: inline-block;
     padding: 12px;
     margin: 3px;
+    color:white;
+    background-color: royalblue ;
+    border: 3px solid black;
 
 }
 
 
 .sidebar-tag:hover {
-
+color:black;
+background-color: hotpink;
 }
 
 
+/*title*/
+.sidebar-title{
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 2px solid hotpink;
+}
+
+
+
+/*sidebar*/
+.sidebar{
+    border: 2px solid hotpink;
+    padding: 2px;
+}

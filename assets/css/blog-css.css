@@ -1,0 +1,78 @@
+p{}
+
+h1{}
+
+a{}
+
+div{}
+
+#myparagraph{
+	color:green;
+}
+
+.text-orange{
+	color:orange;
+}
+
+.text-green{
+	color:green;
+}
+
+.myparagraph{
+	font-size:32px ;
+	font-weight:bold ;
+	font-style:italic ;
+	color:blueviolet ;
+}
+
+.text-uppercase{
+
+	text-transform: uppercase;
+}
+
+.a-link{
+	text-decoration:none;
+	color:hotpink;
+}
+
+.text-color{
+	color:aquamarine;
+
+}
+
+.text-background{
+background-color:blue;
+
+}
+.text-center{
+	text-align:center;
+	background-color:seagreen;
+}
+
+.custom-list{
+	list-style-type: none;
+	padding:0px;
+}
+
+.text-border{
+	border: 10px solid firebrick;
+}
+.left-border{
+	border-left: 10px solid firebrick;
+	border-bottom: 10px solid firebrick;
+
+}
+.text-margin{
+	margin:100px ;
+}
+.text-leftmargin{
+	margin-left:100px ;
+}
+.text-padding{
+	padding:20px;
+}
+.custom-image{
+height:100px;
+width:150px;
+
+}

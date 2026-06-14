@@ -1,0 +1,39 @@
+.movie-img{
+	height: 300px;
+	border: 5px solid black;
+}
+.movie-section{
+	padding: 5px;
+	background-color: royalblue;
+	border:10px solid black;
+	color:white;
+}
+
+.movie-section:hover{
+background-color: hotpink;
+color:black;
+
+}
+
+.Movie-title{
+font-weight: bold;
+font-style: italic;
+font-size: 20px;
+}
+
+.movie-quote{
+font-style: italic;
+text-align:center;
+font-size: 20px;
+font-weight: bold;
+}
+
+.movie-note{
+	font-style: italic;
+	font-size: 15px;
+}
+.movie-heading{
+	padding: 10px;
+	font-weight: bold;
+	text-decoration-line: underline;
+}
